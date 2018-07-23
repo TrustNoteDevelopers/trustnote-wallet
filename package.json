@@ -29,14 +29,14 @@
     "plugin": false
   },
   "chromium-args": "--proxy-server=http://127.1.2.7 --password-store=basic --disable-password-generation",
-  "homepage": "https://github.com/trustnote/trustnote-wallet",
+  "homepage": "https://github.com/TrustNoteDevelopers/trustnote-wallet",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/trustnote/trustnote-wallet.git",
+    "url": "https://github.com/TrustNoteDevelopers/trustnote-wallet.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/trustnote/trustnote-wallet/issues"
+    "url": "https://github.com/TrustNoteDevelopers/trustnote-wallet/issues"
   },
   "browser": {
     "request": "browser-request",
@@ -47,7 +47,7 @@
     "bip38": "^1.4.0",
     "bitcore-lib": "^0.13.14",
     "bitcore-mnemonic": "~1.0.0",
-    "trustnote-common": "git+https://github.com/trustnote/trustnote-common.git#wallet",
+    "trustnote-common": "git+https://github.com/TrustNoteDevelopers/trustnote-common.git#wallet",
     "grunt": "^1.0.1",
     "grunt-angular-gettext": "^2.2.3",
     "grunt-browserify": "^5.0.0",
