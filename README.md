@@ -1,29 +1,16 @@
-TrustNote
-TrustNote是一个社区开源项目，提供可靠可信的区块链公有网络服务，社区版钱包也命名为TrustNote，整个项目都是由TrustNote基金会提供支持。
+# 安装
 
-本项目是TrustNote社区版钱包，安全，简单，易用。钱包内功能包括：转账交易、私密即时消息、安全方案、支持TRC20 Token 等等。
-
-我们希望有兴趣的开发者加入社区，为TrustNote项目贡献代码和国际化语言。TrustNote会在社区共同努力下，逐渐成为世界一流的区块链公有网络。
-
-详细内容见官方网站 trustnote.org
-
-软件下载
-官方下载:
-
-trustnote.org
-Github release:
-
-github.com
-安装
 我们提供了多个平台的可执行程序，你可以点击上面的下载链接开始使用TrustNote钱包，也可以使用项目源代码编译成可执行程序。
 
-安装依赖
-需要针对自己使用的操作系统架构选择合适的软件包。
+# 依赖
 
-git
-Node.js v8.9.4
-NW.js v0.26.6
-bower
+1、git
+2、Node.js v8.9.4
+3、NW.js v0.26.6
+https://dl.nwjs.io/v0.26.6
+4、bower
+
+
 ```
 npm install -g bower@1.8.2
 ```
